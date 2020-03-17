@@ -4,6 +4,9 @@
 
 using namespace std;
 int main(){
-  cout<<"zhu"<<endl;
+printf("are you a pig");
+  int n;
+  cin>>n;
+  cout<<n<<endl;
   
 }
